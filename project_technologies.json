@@ -1,16 +1,16 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Max For Live", "angular js"
         ],
         "platforms": [
-            "insert platforms"
+            "Mac OS X", "Ableton Live"
         ],
         "toolkits": [
             "insert toolkits"
         ]
     },
     "themes": [
-        "insert themes"
+        "Music and real-time generated visuals"
     ]
 }
